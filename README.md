@@ -1,4 +1,4 @@
-# sleepx
+# SleepX
 ## A simple way to sleep code for (x) mins, secs, hours and more!
 ### By: Paul Cannon Palacios
 
