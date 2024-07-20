@@ -2,6 +2,9 @@
 ## A simple way to sleep code for (x) mins, secs, hours and more!
 ### By: Paul Cannon Palacios
 
+# Version
+## 1.0.0
+
 You can make programm sleep (x) hours, mins, secs, miliseconds, microseconds or even nanoseconds!
 
 How to use it:
